@@ -4,7 +4,7 @@ Data analyst in Berlin with a background in mathematics and the German energy se
 
 I mostly build stuff to learn here, and maybe a project or two just for fun.
 
-The energy pricing one here is for arguments with my friends in Stockholm and inlaws in Thüringen.
+The energy pricing project here is for arguments with my friends in Stockholm and inlaws in Thüringen - but it is also a nice tech stack, take a look!
 
 
 ### 🧰 Tools

@@ -17,8 +17,10 @@ The energy pricing project here is for arguments with my friends in Stockholm an
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat&logo=looker&logoColor=white)
 
 ### 📊 Projects
 
@@ -26,6 +28,7 @@ The energy pricing project here is for arguments with my friends in Stockholm an
 - 🛒 **[Magist x Eniac Partnership Analysis](https://github.com/niklaslivchitz/magist-eniac-partnership-analysis)**: Business case demo. A Spanish tech reseller wants to get into the Brazilian market. Is the given e-commerce marketplace the right partner? SQL, Tableau.
 - 🔄 **[City, Weather & Flights ETL](https://github.com/niklaslivchitz/city-weather-flights-etl)**: Pipeline that combines web scraping and public APIs and loads the result into a MySQL database. Python, MySQL.
 - 🏷️ **[E-Commerce Discount Analysis](https://github.com/niklaslivchitz/E-Commerce-Discount-Analysis)**: Cleaning and analysing sales data to see how discounting affects revenue. Python, pandas.
+- - 🏕️ **[GoOutside: BigQuery, Sheets & Looker Studio](https://github.com/niklaslivchitz/gooutside-bigquery-sheets-looker)**: An outdoor gear company loses its only analyst, and nobody else knows SQL. Sales data into BigQuery, Google Sheets for two managers' questions, and a Looker Studio dashboard for everyone else. BigQuery, SQL, Looker Studio.
 
 ### 📫 Contact
 

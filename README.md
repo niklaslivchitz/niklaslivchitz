@@ -28,7 +28,7 @@ The energy pricing project here is for arguments with my friends in Stockholm an
 - 🛒 **[Magist x Eniac Partnership Analysis](https://github.com/niklaslivchitz/magist-eniac-partnership-analysis)**: Business case demo. A Spanish tech reseller wants to get into the Brazilian market. Is the given e-commerce marketplace the right partner? SQL, Tableau.
 - 🔄 **[City, Weather & Flights ETL](https://github.com/niklaslivchitz/city-weather-flights-etl)**: Pipeline that combines web scraping and public APIs and loads the result into a MySQL database. Python, MySQL.
 - 🏷️ **[E-Commerce Discount Analysis](https://github.com/niklaslivchitz/E-Commerce-Discount-Analysis)**: Cleaning and analysing sales data to see how discounting affects revenue. Python, pandas.
-- - 🏕️ **[GoOutside: BigQuery, Sheets & Looker Studio](https://github.com/niklaslivchitz/gooutside-bigquery-sheets-looker)**: An outdoor gear company loses its only analyst, and nobody else knows SQL. Sales data into BigQuery, Google Sheets for two managers' questions, and a Looker Studio dashboard for everyone else. BigQuery, SQL, Looker Studio.
+- 🏕️ **[GoOutside: BigQuery, Sheets & Looker Studio](https://github.com/niklaslivchitz/gooutside-bigquery-sheets-looker)**: An outdoor gear company loses its only analyst, and nobody else knows SQL. Sales data into BigQuery, Google Sheets for two managers' questions, and a Looker Studio dashboard for everyone else. BigQuery, SQL, Looker Studio.
 
 ### 📫 Contact
 

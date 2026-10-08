@@ -8,6 +8,8 @@ Open for roles in Berlin, or remote.
 
 The energy pricing project here is for arguments with my friends in Stockholm and inlaws in Thüringen - but it is also a nice tech stack, take a look!
 
+The saddle in my avatar is the Segre surface: every 2×2 table where two yes/no variables are independent lives on it. A chi-squared test asks how far your data is from it.
+
 
 ### 🧰 Tools
 

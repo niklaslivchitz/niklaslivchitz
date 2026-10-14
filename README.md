@@ -2,7 +2,7 @@
 
 If you talk about me, defaulting to he/him works well.
 
-Data analyst in Berlin with a background in mathematics and the German energy sector.
+Data analyst with a background in mathematics and the German energy sector.
 
 Open for roles in Berlin, or remote.
 
